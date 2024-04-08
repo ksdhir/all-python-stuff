@@ -1,3 +1,12 @@
 {
-  "number": 12345678901234567632
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello",
+      "number": 12345678901234567632
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
